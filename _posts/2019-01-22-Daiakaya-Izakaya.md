@@ -4,7 +4,7 @@ title: Daikaya Resturant Izakaya
 date: 2019-01-22
 excerpt: "Review of Daikaya Ramen"
 tags: [Resturants,Food]
-comments: false
+comments: true
 ---
 ## Daikaya - Izakaya Ramen
 ### Washington, D.C.
