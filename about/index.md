@@ -1,9 +1,14 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags:
+  - about
+  - Jekyll
+  - theme
+  - moon
+date: {}
 comments: false
+published: true
 ---
     
 <center>Blog by Kaz</center>
@@ -29,6 +34,7 @@ I hope to work my way up to that camera eventually.
 
 
 
-#To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more #information.
-      
-#[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Follow me on instagram and twitter.
+
+[Instagram](https://instagram.com/rootwulf){: .btn}
+[Twitter](https://twitter.com/LionMillionair){: .btn}
