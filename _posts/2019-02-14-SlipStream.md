@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+title: SOL Taceria and Grille
+date: 2019-01-30
+excerpt: "Super Decent taco spot"
+tags: [Resturants,Food]
+comments: true
+categories: misc
 ---
 ## My new go to Coffee spot.
 
