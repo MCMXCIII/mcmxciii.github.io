@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SOL Taceria and Grille
+title: Slipstream Coffee
 date: 2019-01-30
 excerpt: "Super Decent taco spot"
 tags: [Resturants,Food]
