@@ -2,7 +2,7 @@
 layout: post
 title: Slipstream Coffee
 date: 2019-01-30
-excerpt: "Super Decent taco spot"
+excerpt: "Great Coffee, Excellecnt Atmosphere."
 tags: [Resturants,Food]
 comments: true
 categories: misc
