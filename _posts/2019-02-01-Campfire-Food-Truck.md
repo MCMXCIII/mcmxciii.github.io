@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+title: Campfire Food truck.
+date: 2019-01-30
+excerpt: "Nice homely Campfire truck food."
+tags: [Resturants,Food]
+comments: true
+categories: misc
 ---
 ## Campfire food truck.
 
