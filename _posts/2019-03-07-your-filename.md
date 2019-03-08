@@ -38,10 +38,18 @@ Something else I started to look at is Marrow which seems to be somethin that is
 
 Another key to the broth is colagen and this does wonders for joints and the helps the gut by supporting the lining on the stomach to prevent and treat alot of different ailments when it come to the gut this also will help bring about healthy skin,bones,hair and nails. This is a key part of bone broth and one of the reasons it is so beneficial.
 
+## Low Stomach Acid
+After doing a bit of research about this topic I found is that alot of the symtopms that I have match that of low stomach acid.
+
+There is a test that can be done to find out rather or not someone has low stomach acid. Take a teaspoon of baking soda and drop it water and drink this mixture. If burping or belching comes soon after stomach acid is at normal levels but if it takes a while for belching to occur then stomach maybe low.
+
+watching this video for the exact quote
+https://youtu.be/KXJCCSU1wm8
+
+There is another test 
 
 
 ## Notes
 
 Here is a list of channels and here that may be able to hep those looking to start 
 https://www.youtube.com/channel/UCzH5n3Ih5kgQoiDAQt2FwLw brothers green.
-
